@@ -1,0 +1,36 @@
+*{
+  text-align:left;
+  font-style: helvetica;
+}
+
+header {
+  color: #000000;
+  font-family: helvetica;
+  font-size:40px;
+  width:400px;
+  margin-left: 180px;
+  margin-top: 140px;
+
+}
+
+
+section img {
+    float:left;
+    margin-left: 80px;
+    margin-bottom: 70px;
+
+}
+
+section div{
+  color: #000000;
+  font-family: helvetica;
+  font-size:15px;
+  width:400px;
+  float:left;
+  margin-top: 130px;
+  margin-left: 180px;
+display:inline-block;
+
+
+
+}
